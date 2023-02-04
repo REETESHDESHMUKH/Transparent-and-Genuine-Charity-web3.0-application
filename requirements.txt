@@ -1,0 +1,3 @@
+[IET BLOCKCHAIN] npx thirdweb@latest create --contract
+[client] npx thirdweb create --app [EVM, vite]
+[client] npx tailwindcss init

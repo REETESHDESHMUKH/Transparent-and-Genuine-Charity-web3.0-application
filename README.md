@@ -1,4 +1,1 @@
-# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
-![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
-
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+![Copy of cipher Expo Presentation](https://user-images.githubusercontent.com/76653982/229576575-a7cd4601-92d4-4549-a13a-96350f837ca3.jpg)
